@@ -1,0 +1,53 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+    padding: 50px;
+    margin: auto;
+
+}
+
+.carousel-control-next-icon {
+background-image : url(assets/next.png);
+}
+
+.carousel-control-prev-icon {
+background-image : url(assets/back.png);
+}
+
+
+
+.sectionLight{
+    background-color: #eceeef;
+    padding: 2em;
+}
+
+.sectionDark{
+    background-color: #cccccc;
+    padding: 2rem;
+    
+}
+
+.coolStuffWrapper{
+    margin-top: 20px;
+}
+
+button.coolStuffBtn{
+    background-color: red;
+    display: block;
+    margin: auto;
+    color: white;
+}
+
+.modalImg{
+    width: 30%;
+    display: block;
+    margin: auto;
+}
+
+h5.modal-title{
+    margin: auto;
+}
+
+.modalFormWrapper{
+    padding: 2rem;
+}
